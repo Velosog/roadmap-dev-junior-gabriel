@@ -24,12 +24,12 @@ Cada módulo do meu roadmap terá sua própria pasta e seu próprio README:
 
 ---
 
-/modulo-01-logica
-/modulo-02-front-end
-/modulo-03-back-end
-/modulo-04-bancos
-/modulo-05-projetos-praticos
-/modulo-06-alura-cursos
+modulo-01-logica/
+modulo-02-front-end/
+modulo-03-back-end/
+modulo-04-bancos/
+modulo-05-projetos-praticos/
+modulo-06-alura-cursos/
 
 ---
 
